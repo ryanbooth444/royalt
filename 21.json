@@ -1,0 +1,42 @@
+{
+  "name": "SunriseNode #21",
+  "symbol": "SUNRISE",
+  "description": "Sunrise Node is an affordable private RPC on Solana with nodes located in Germany, France, and Virginia (US).",
+  "seller_fee_basis_points": 700,
+  "image": "https://raw.githubusercontent.com/ryanbooth444/royalt/main/21.png",
+  "external_url": "https://discord.gg/sunrisenode",
+  "edition": 21,
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Renewal+Access"
+    },
+    {
+      "trait_type": "Expired",
+      "value": "False"
+    },
+    {
+      "trait_type": "Frozen",
+      "value": "False"
+    },
+    {
+      "trait_type": "Expiration Date",
+      "value": "01.05.2024"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ryanbooth444/royalt/main/21.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "34rZoTyr9omrSdree4qWvrkyEzLkcoHFgUPMGdFXj9Zo",
+        "share": 100
+      }
+    ]
+  }
+}
